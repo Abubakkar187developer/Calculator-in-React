@@ -1,0 +1,16 @@
+.calculator{
+    border: 1px solid black;
+    width : 230px;
+    height: 410px;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    border-radius: 5px;
+}
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    justify-content: center;
+}
